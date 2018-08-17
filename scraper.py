@@ -2,7 +2,7 @@ from selenium import webdriver
 
 driver = webdriver.Chrome()
 
-driver.get("https://www.iga.net/fr/epicerie_en_ligne")
+driver.get("https://www.iga.net/en/online_grocery/")
 
 input("Press any key to start script ...")
 
